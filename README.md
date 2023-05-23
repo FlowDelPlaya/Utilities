@@ -61,11 +61,13 @@ An image is below 2560 x 1440 in height or width. It is rescaled by height first
 Very useful for getting many images into one singular size for a particular program (or in my case - simply to resize desktop backgrounds).
 
 **Use Case:**
+
 --Do you like all of your various background files in the same format without needling to hassle yourself with various common formats and sizes? This script is for you. 
 
 
--------------------
+------------------------------
 **Get Backgrounds (Specific)**
+
 --Scrapes 4chan.org/wg for wallpaper background files in a specific format (2560 x 1440)
 
 Note: 4Chan is not really a regulated, moderated, or generally 'nice' place in my opinion. That being said: it can be a high quality wallpaper source if you are open to being subjected to a few (hopefully not terrible) images that come with the downloading of many other images. 
