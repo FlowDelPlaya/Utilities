@@ -66,4 +66,6 @@ Very useful for getting many images into one singular size for a particular prog
 **Get Backgrounds (Specific)**
 --Scrapes 4chan.org/wg for wallpaper background files in a specific format (2560 x 1440)
 
-Note: 4Chan is not regulated, moderated or generally a 'nice' place in my opinion. That being said - it can be a high quality wallpaper source if you were open to being subjected to a few (hopefully) images you might not find to your liking. Simply put - be aware of what you are accessing and downloading. This script will go through one by one to get all files in a particular png format (2560 x 1440) - This format is great for the Odyssey G7 monitor. Enjoy.
+Note: 4Chan is not really a regulated, moderated, or generally 'nice' place in my opinion. That being said: it can be a high quality wallpaper source if you are open to being subjected to a few (hopefully not terrible) images that come with the downloading of many other images. 
+
+Simply put - be aware of what you could be possibly accessing and downloading. Don't say I didn't warn you.
