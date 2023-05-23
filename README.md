@@ -48,11 +48,13 @@ fu.bar
 -------------------------------------------
 **Convert Backgrounds to Favorable Format**
 
-**Usage:** 
+**Usage:**
+
 --Drop this .py file into any directory with PNGs, JPGs, or GIFs to convert to a PNG format (2560 x 1440) - This format is great for the Odyssey G7 monitor.
 
 **I/O:** 
-example input:
+
+example input/output:
 
 An image is below 2560 x 1440 in height or width. It is rescaled by height first. Any additional width is added to the image so that it will show centered as a new image titled me.resized.png as an example. 
 
