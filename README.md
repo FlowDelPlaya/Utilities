@@ -27,7 +27,8 @@ example input:
 
 fu.bar
 
-example output: 
+example output:
+
 0001.png
 
 0002.jpg
