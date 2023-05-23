@@ -1,6 +1,7 @@
 # Utilities
 Various utilities to help make life on the Internet a little easier.
 
+
 -------------------------------
 **Add Leading Zeroes to Files**
 
@@ -56,7 +57,7 @@ fu.bar
 
 example input/output:
 
-An image is below 2560 x 1440 in height or width. It is rescaled by height first. Any additional width is added to the image so that it will show centered as a new image titled me.resized.png as an example. 
+An image is below or above 2560 x 1440 in height or width. It is rescaled by height first. Any additional width is added to the image so that it will show centered. The file is written as a new image titled "me.resized.png" as an example. 
 
 Very useful for getting many images into one singular size for a particular program (or in my case - simply to resize desktop backgrounds).
 
