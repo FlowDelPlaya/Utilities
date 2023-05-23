@@ -1,0 +1,1 @@
+Simply copy .py file into the directory you want to convert all images to specified format and voila.
