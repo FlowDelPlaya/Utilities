@@ -43,9 +43,9 @@ example output:
 fu.bar
 
 **Convert Backgrounds to Favorable Format**
---Drop this .py file into any directory with PNGs, JPGs, or GIFs to convert to a PNG format (2560 x 1440) - Great for Odyssey G7 backgrounds.
+--Drop this .py file into any directory with PNGs, JPGs, or GIFs to convert to a PNG format (2560 x 1440) - This format is great for the Odyssey G7 monitor.
 
 
 
 **Get Backgrounds**
---Scrapes 4chan.org in a paginated format, one by one to get all files in a particular png format (2560 x 1440) - Great for the Odyssey G7 backgrounds.
+--Scrapes 4chan.org in a paginated format, one by one to get all files in a particular png format (2560 x 1440) - This format is great for the Odyssey G7 monitor.
